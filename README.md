@@ -27,7 +27,9 @@ import winsound
 
 ## Repo Status
 
-
+![GitHub PR Open](https://img.shields.io/github/issues-pr/darpanhirapara/Alarm_Clock_with_GUI_Using_Python?style=for-the-badge&color=aqua)
+![GitHub PR closed](https://img.shields.io/github/issues-pr-closed-raw/darpanhirapara/Alarm_Clock_with_GUI_Using_Python?style=for-the-badge&color=blue)
+![GitHub language count](https://img.shields.io/github/languages/count/darpanhirapara/Alarm_Clock_with_GUI_Using_Python?style=for-the-badge&color=brightgreen)
 
 ## Our Valuable Contributors
 
