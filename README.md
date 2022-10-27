@@ -89,3 +89,25 @@ clock.mainloop()
 - Finally make the input boxes such as hourTime, minTime, and secTime which takes the entry of the time the user wants to set the alarm on in 24-hour format.
 - Submit takes the command of the defined function actual_time and executes the clock as it acts as a set button to start the program.
 - Clock.mainloop() is the basic and the last command was given to compile all the previous commands with their basic settings of color, font, width, axis, etc. and displays the window as soon as the program is run.
+
+## To start contributing on this repo - visit [CONTRIBUTING.md](https://github.com/darpanhirapara/Alarm_Clock_with_GUI_Using_Python/blob/master/contributing.md)
+
+## Code of Conduct
+
+`CTRL+click` the GIF below
+
+<p><a href="https://github.com/darpanhirapara/Alarm_Clock_with_GUI_Using_Python/blob/master/code_of_conduct.md"><img width=35% src="https://media.giphy.com/media/qHRwTyhWIj4UU/200w_d.gif"></a></p>
+
+<br/>
+
+## Repo Status
+
+![GitHub PR Open](https://img.shields.io/github/issues-pr/darpanhirapara/Alarm_Clock_with_GUI_Using_Python?style=for-the-badge&color=aqua)
+![GitHub PR closed](https://img.shields.io/github/issues-pr-closed-raw/darpanhirapara/Alarm_Clock_with_GUI_Using_Python?style=for-the-badge&color=blue)
+![GitHub language count](https://img.shields.io/github/languages/count/darpanhirapara/Alarm_Clock_with_GUI_Using_Python?style=for-the-badge&color=brightgreen)
+
+## Our Valuable Contributors
+
+<a href="https://github.com/darpanhirapara/Alarm_Clock_with_GUI_Using_Python/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=darpanhirapara/Alarm_Clock_with_GUI_Using_Python" />
+</a>
